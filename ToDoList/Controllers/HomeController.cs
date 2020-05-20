@@ -10,8 +10,6 @@ namespace ToDoList.Controllers
       {
         return View();
       }
-      // [Route("/fav_photos")]
-      // public ActionResult FavPhotos()
     }
 
 }
